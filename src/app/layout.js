@@ -64,8 +64,8 @@ const Footer = () => {
     <footer className="bg-gray-800 text-white py-6">
       <div className="container mx-auto flex justify-between items-center">
         <div>
-          <p className="font-bold text-lg">Your Company</p>
-          <p className="text-sm">Address, City, Country</p>
+          <p className="font-bold text-lg">Portal Company</p>
+          <p className="text-sm">Bibiheybat, Baku, Azerbaijan</p>
         </div>
         <div>
           <p className="text-sm">Follow Us:</p>
